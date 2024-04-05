@@ -13,7 +13,7 @@ Vue
 -> Props are the Custom attributes that can be registered in any component. It is mostly used to give or send a vlue from parent Component to Child Component.
 
 - Computed
--> Computed are the properties that stores the defined function as object which only porcess when the value that it is suppose to update is updated. It cannot be called as function it should be called as object. It is used to output a value.
+-> Computed are the properties that stores the a function as object which only porcess when the value that it is suppose to update is updated. It cannot be called as function it should be called as object. It is used to output a value.
 
 - Watcher
 -> Watchers allows to obeserve change in the components data and respond accordingly.
