@@ -1,0 +1,42 @@
+Vue JS
+- JS Framework
+- Reactive WebFrontends
+
+Vue
+- Data
+-> A data is a declaration in Vue which returns an object containing all the variables defined in it which can be used on Templates and inside other parts of Vue js App
+
+- Method
+-> Methodes are the functions that belong to the Vue instance, It is used for Event Handling (v-on). It is called if any object is Update despite of the value being unchanged
+
+- Props
+-> Props are the Custom attributes that can be registered in any component. It is mostly used to give or send a vlue from parent Component to Child Component.
+
+- Computed
+-> Computed are the properties that stores the defined function as object which only porcess when the value that it is suppose to update is updated. It cannot be called as function it should be called as object. It is used to output a value.
+
+- Watcher
+-> Watchers allows to obeserve change in the components data and respond accordingly.
+
+
+----Syntax----
+- v-if
+-> A syntax that is used to conditionallyn render a block of code
+
+- v-bind
+-> A syntax that is used to bind a defined value in script into a html attribute
+
+- v-html
+-> A syntax that is used to interpret a defined value in script into a html code
+
+- v-on
+-> A syntax that is used to listen for a event and execute the given command or call functions
+
+- v-once
+-> A syntax That will preserve the initial data that was stored in a variable and never changed on updates
+
+- v-model
+-> A syntax also known as 2 way binding syntax that is used in both direction(script and html code)
+
+
+
